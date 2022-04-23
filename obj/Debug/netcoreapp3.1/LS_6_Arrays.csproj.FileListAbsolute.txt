@@ -1,0 +1,14 @@
+C:\Users\bwoolford\source\repos\LS_6_Arrays\LS_6_Arrays\bin\Debug\netcoreapp3.1\LS_6_Arrays.exe
+C:\Users\bwoolford\source\repos\LS_6_Arrays\LS_6_Arrays\bin\Debug\netcoreapp3.1\LS_6_Arrays.deps.json
+C:\Users\bwoolford\source\repos\LS_6_Arrays\LS_6_Arrays\bin\Debug\netcoreapp3.1\LS_6_Arrays.runtimeconfig.json
+C:\Users\bwoolford\source\repos\LS_6_Arrays\LS_6_Arrays\bin\Debug\netcoreapp3.1\LS_6_Arrays.runtimeconfig.dev.json
+C:\Users\bwoolford\source\repos\LS_6_Arrays\LS_6_Arrays\bin\Debug\netcoreapp3.1\LS_6_Arrays.dll
+C:\Users\bwoolford\source\repos\LS_6_Arrays\LS_6_Arrays\bin\Debug\netcoreapp3.1\LS_6_Arrays.pdb
+C:\Users\bwoolford\source\repos\LS_6_Arrays\LS_6_Arrays\obj\Debug\netcoreapp3.1\LS_6_Arrays.csproj.AssemblyReference.cache
+C:\Users\bwoolford\source\repos\LS_6_Arrays\LS_6_Arrays\obj\Debug\netcoreapp3.1\LS_6_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwoolford\source\repos\LS_6_Arrays\LS_6_Arrays\obj\Debug\netcoreapp3.1\LS_6_Arrays.AssemblyInfoInputs.cache
+C:\Users\bwoolford\source\repos\LS_6_Arrays\LS_6_Arrays\obj\Debug\netcoreapp3.1\LS_6_Arrays.AssemblyInfo.cs
+C:\Users\bwoolford\source\repos\LS_6_Arrays\LS_6_Arrays\obj\Debug\netcoreapp3.1\LS_6_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\bwoolford\source\repos\LS_6_Arrays\LS_6_Arrays\obj\Debug\netcoreapp3.1\LS_6_Arrays.dll
+C:\Users\bwoolford\source\repos\LS_6_Arrays\LS_6_Arrays\obj\Debug\netcoreapp3.1\LS_6_Arrays.pdb
+C:\Users\bwoolford\source\repos\LS_6_Arrays\LS_6_Arrays\obj\Debug\netcoreapp3.1\LS_6_Arrays.genruntimeconfig.cache
